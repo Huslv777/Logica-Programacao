@@ -1,0 +1,59 @@
+body{
+    margin: auto;
+    width: 50vw;
+}
+
+h1{
+    background-color: rgb(253, 242, 228);
+    text-align: justify;
+    font-size: 36px;
+}
+
+h2{ 
+    background-color: rgb(253, 242, 228);
+    font-size: 29px;
+}
+
+
+#corazul{
+    color: #2C3E50;
+}
+
+.corparis{
+    color: #E74C3C;
+
+}
+
+p{
+    color: #34495E;
+    line-height: 1.5;
+}
+
+.corverde{ 
+    color: #30AE60;
+}
+
+#h1centro{
+    text-align: center;
+    color: #30AE60;
+}
+
+.corlaranja{
+    color: #F39C11;
+}
+
+#h1laranja{
+    text-align: center;
+    color: #F39C11;
+
+}
+
+.corroxa{
+    color: #8E44AD;
+}
+
+#h1roxo{
+    text-align: center;
+    color: #8E44AD;
+}
+
